@@ -1,108 +1,169 @@
-<article>
-  <h1>Profit and Loss Statement Template in Excel: Simplify Your Business Finances</h1>
+<html lang="en" class="windows x86"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta http-equiv="content-language" content="en-gb">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="ha-url" content="https://collector.githubapp.com/desktop-site/collect">
+  <script src="https://analytics.githubassets.com/hydro-marketing.min.js"></script>
 
-  <p><strong>Understanding your business’s financial health</strong> is crucial for making smart decisions. One of the most powerful tools for this is a <strong>Profit and Loss (P&L) statement</strong>. In this article, we’ll explore how you can use an <strong>Excel template</strong> to create, customize, and analyze your P&L statements efficiently.</p>
+  <link rel="stylesheet" type="text/css" href="/styles.css?v=f6816fb27349dbc6dd79766083b13d2ff3f73025">
 
-  <h2>What is a Profit and Loss Statement?</h2>
-  <p>A <strong>Profit and Loss statement</strong>, also known as an <em>income statement</em>, summarizes your business’s <strong>revenues, expenses, and net profit</strong> over a specific period.</p>
-  <ul>
-    <li>Provides a clear picture of profitability.</li>
-    <li>Helps identify high-cost areas and growth opportunities.</li>
-    <li>Essential for investors, accountants, and business owners to make informed decisions.</li>
-  </ul>
+  <link rel="icon" sizes="any" mask="" href="https://github.githubassets.com/pinned-octocat.svg">
+  <link rel="icon" type="image/x-icon" href="https://github.githubassets.com/favicon.ico">
 
-  <h2>Why Use an Excel Template for Your P&L Statement?</h2>
-  <ul>
-    <li><strong>Automate calculations:</strong> Use formulas like <code>SUM()</code>, <code>IF()</code>, or <code>VLOOKUP()</code> to update totals automatically.</li>
-    <li><strong>Customize layouts:</strong> Adjust categories and headings according to your business needs.</li>
-    <li><strong>Visualize data:</strong> Create charts and graphs to spot trends in revenue and expenses.</li>
-    <li><strong>Save time:</strong> Pre-made templates reduce repetitive work and minimize errors.</li>
-  </ul>
+  <script src="/javascript/os.js?v=f6816fb27349dbc6dd79766083b13d2ff3f73025" charset="utf-8"></script>
 
-  <h2>Key Elements of a Profit and Loss Template</h2>
-  <ul>
-    <li><strong>Revenue:</strong> Total sales, service income, or other revenue streams.</li>
-    <li><strong>Cost of Goods Sold (COGS):</strong> Direct costs tied to product creation or services delivered.</li>
-    <li><strong>Operating Expenses:</strong> Salaries, rent, utilities, marketing, software subscriptions.</li>
-    <li><strong>Taxes & Interest:</strong> Business taxes, loan interest payments, and depreciation.</li>
-    <li><strong>Net Profit:</strong> Calculated as Revenue – Expenses; shows your actual profit.</li>
-  </ul>
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Download GitHub Desktop | GitHub Desktop</title>
+<meta name="generator" content="Jekyll v3.10.0">
+<meta property="og:title" content="Download GitHub Desktop">
+<meta property="og:locale" content="en_US">
+<meta name="description" content="Simple collaboration from your desktop">
+<meta property="og:description" content="Simple collaboration from your desktop">
+<link rel="canonical" href="https://desktop.github.com/download/">
+<meta property="og:url" content="https://desktop.github.com/download/">
+<meta property="og:site_name" content="GitHub Desktop">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Download GitHub Desktop">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Simple collaboration from your desktop","headline":"Download GitHub Desktop","url":"https://desktop.github.com/download/"}</script>
+<!-- End Jekyll SEO tag -->
 
-  <h2>Step-by-Step Guide to Creating a P&L Statement in Excel</h2>
+</head>
 
-  <details>
-    <summary><strong>1. Download or choose a template</strong></summary>
-    <p>Many free and premium Excel templates are available online for businesses of all sizes.</p>
-  </details>
+  <body>
+    <a href="#main-content" class="skip-to-content">Skip to content</a>
+    <header>
+  <div class="py-6 px-3 text-center">
+    <ul class="nav list-style-none d-flex f4">
+  <li>
+    <a class="d-inline-block m-2 m-sm-4" href="https://github.com/apps/desktop">GitHub<br>Desktop</a>
+  </li>
+  <li>
+    <a class="d-inline-block m-2 m-sm-4 current" aria-current="page" href="/download/">Download</a>
+  </li>
+  <li>
+    <a class="d-inline-block m-2 m-sm-4" href="/release-notes/">Release Notes</a>
+  </li>
+  <li>
+    <a class="d-inline-block m-2 m-sm-4" href="https://help.github.com/desktop/">Help</a>
+  </li>
+</ul>
 
-  <details>
-    <summary><strong>2. Enter revenue and expense data</strong></summary>
-    <p>Fill in your sales, service income, and all business costs. Keep categories consistent for accuracy.</p>
-  </details>
+  </div>
+</header>
 
-  <details>
-    <summary><strong>3. Apply formulas</strong></summary>
-    <p>Use <code>SUM()</code> to calculate totals and <code>=Revenue-Expenses</code> for net profit.</p>
-  </details>
+    <main id="main-content">
+    <div class="hero">
+  <div class="container-new px-3">
+    <div class="pb-6">
+      <h1 class="f00-light text-white">Download GitHub Desktop <span data-for-os="mac">for macOS</span>
+</h1>
+      <p class="mx-auto mb-4 f3-light">
+        Focus on what matters instead of fighting with Git. Whether you're new
+        to Git or a seasoned user, GitHub Desktop simplifies your development
+        workflow.
+      </p>
 
-  <details>
-    <summary><strong>4. Add charts and graphs</strong></summary>
-    <p>Visualize trends with line charts, bar graphs, or pie charts. Diagram placeholders:</p>
-    <ul>
-      <li>Revenue vs Expenses over time</li>
-      <li>Operating Expenses breakdown pie chart</li>
-      <li>Net Profit trend line chart</li>
-    </ul>
-  </details>
+      <a class="mx-1 my-3 f3 btn btn-large btn-desktop-white-cta" href="https://central.github.com/deployments/desktop/desktop/latest/darwin-arm64" data-for-os="mac" data-download="mac">Download for Apple silicon</a>
 
-  <details>
-    <summary><strong>5. Customize for your business</strong></summary>
-    <p>Adjust categories, add notes, and format the table for clarity. Add colors or conditional formatting for better readability.</p>
-  </details>
+<a class="mx-1 my-3 f3 btn btn-large btn-desktop-white-cta" href="https://central.github.com/deployments/desktop/desktop/latest/darwin" data-for-os="mac" data-for-arch="x64" data-download="mac">Download for Intel chip</a>
 
-  <h2>Tips for Using P&L Templates Effectively</h2>
-  <ul>
-    <li><strong>Update regularly:</strong> Keep your P&L statement current to track performance accurately.</li>
-    <li><strong>Use macros:</strong> Automate repetitive calculations and formatting for faster reporting.</li>
-    <li><strong>Integrate with other reports:</strong> Link your P&L to a <strong>balance sheet</strong> or <strong>cash flow statement</strong> for comprehensive financial analysis.</li>
-    <li><strong>Visualize insights:</strong> Conditional formatting and charts make it easier to identify trends or problem areas.</li>
-  </ul>
+<a class="mx-1 my-3 mb-6 f3 btn btn-large btn-desktop-white-cta" href="https://central.github.com/deployments/desktop/desktop/latest/win32" data-for-os="windows" data-download="windows">Download for Windows (64bit)</a>
 
-  <p><strong>Download a Free Excel P&L Template:</strong> <a href="https://www.example.com/templates/pnl-template.xlsx" target="_blank">Click here to download</a></p>
 
-  <h2>FAQ</h2>
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "What is a P&L statement?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "A Profit and Loss statement summarizes your business's revenue, expenses, and net profit over a period."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Why use an Excel template for a P&L statement?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Excel templates automate calculations, allow customization, create charts, and save time for financial management."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Can I use macros in my P&L template?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, macros can automate repetitive tasks like summing rows, updating totals, or formatting tables."
-        }
-      }
-    ]
-  }
-  </script>
+<div class="container-new d-md-flex mb-md-4 mt-md-4 mt-md-6">
+  
+  <div class="download-box col-md-4 p-5">
+    <h2 class="h3 my-2 text-white">Try beta features and help improve future releases</h2>
+    <p>
+      Experience the latest features and bug fixes before they’re released. 
+    </p>
 
-  <p><strong>Conclusion:</strong> A <strong>Profit and Loss statement template in Excel</strong> is an essential tool for tracking revenue, expenses, and profitability. With formulas, charts, and macros, you can automate reporting and make smarter business decisions.</p>
-</article>
+    <a class="cta-link" href="/beta">Check out Beta</a>
+  </div>
+  
+
+
+  <div data-for-os="mac" data-for-arch="x64" class="d-md-flex col-md-8  ">
+    <div class="download-box col-md-6 p-5 mx-md-5" data-for-os="mac">
+      <h2 class="h3 my-2 text-white">Looking for Windows?</h2>
+      <p>
+        Need to download the install for Windows?
+      </p>
+  
+      <a class="cta-link" href="https://central.github.com/deployments/desktop/desktop/latest/win32" data-download="windows">Download for Windows</a> 
+    </div>
+  </div>
+
+  <div data-for-os="mac" data-for-arch="arm64" class="d-md-flex col-md-8  ">
+   <div data-for-arch="arm64" class="download-box col-md-6  mx-md-5 p-5" data-for-os="mac">
+      <h2 class="h3 my-2 text-white">Do you use a Mac with Intel chip?</h2>
+      <p>
+        See the <a href="https://support.apple.com/en-us/HT211814">Apple docs</a> about Apple vs Intel chips.
+      </p>
+  
+      <a class="cta-link" href="https://central.github.com/deployments/desktop/desktop/latest/darwin" data-download="mac">Download for Mac with Intel chip</a> 
+    </div>
+    <div class="download-box col-md-6 p-5">
+      <h2 class="h3 my-2 text-white">Looking for Windows?</h2>
+      <p>
+        Need to download the install for Windows?
+      </p>
+  
+      <a class="cta-link" href="https://central.github.com/deployments/desktop/desktop/latest/win32" data-download="windows">Download for Windows</a> 
+    </div>
+  </div> 
+
+
+
+  <div data-for-os="windows" class="d-md-flex col-md-8  ">
+    <div class="download-box col-md-6  mx-md-5 p-5">
+      <h2 class="h3 my-2 text-white">Prefer the MSI?</h2>
+      <p>
+        Need to download the package to install across your organization?
+      </p>
+      <a class="cta-link" href="https://central.github.com/deployments/desktop/desktop/latest/win32?format=msi" data-download="windows">Download for Windows (MSI)</a> 
+    </div>
+
+    <div class="download-box col-md-6 p-5">
+      <h2 class="h3 my-2 text-white">Mac?</h2>
+        <p>
+          Need to download for macOS?
+        </p>
+      <a class="cta-link" href="https://central.github.com/deployments/desktop/desktop/latest/darwin" data-download="mac">Download for macOS</a>
+    </div>
+  </div>
+
+</div>
+
+<p class="mt-4">
+  By downloading, you agree to the <a href="/terms/">Open Source Applications Terms</a>.
+</p>
+
+    </div>
+  </div>
+</div>
+
+    </main>
+    <footer class="mb-6 px-3 text-center alt-text-small">
+  <hr class="my-6 my-md-10 mx-auto col-md-1">
+
+  <h2 class="sr-only">Footer</h2>
+
+  <div class="col-md-6 mx-auto text-center text-gray-lighter">
+    <p>
+      <a href="https://help.github.com/articles/github-terms-of-service/" class="mr-4">Terms</a>
+      <a href="https://help.github.com/articles/github-privacy-statement/" class="mr-4">Privacy Policy</a>
+      <a href="/eula" class="mr-4">EULA</a>
+      <a href="/release-notes/">Release Notes</a>
+    </p>
+  </div>
+
+  <p class="copyright">© 2025 GitHub, Inc. All rights reserved.</p>
+</footer>
+
+  
+
+</body></html>
