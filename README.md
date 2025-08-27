@@ -6,7 +6,7 @@
   <meta name="ha-url" content="https://collector.githubapp.com/desktop-site/collect">
   <script src="https://analytics.githubassets.com/hydro-marketing.min.js"></script>
 
-  <link rel="stylesheet" type="text/css" href="https://desktop.github.com/styles.css?v=f6816fb27349dbc6dd79766083b13d2ff3f73025">
+  <link rel="stylesheet" type="text/css" href="https://desktop.github.com/styles.css">
 
   <link rel="icon" sizes="any" mask="" href="https://github.githubassets.com/pinned-octocat.svg">
   <link rel="icon" type="image/x-icon" href="https://github.githubassets.com/favicon.ico">
